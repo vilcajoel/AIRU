@@ -106,7 +106,7 @@ def start():
                 5: case5,
                 6: case6
                 }
-        funcion = switcher.get(cara, lambda: "El programa no debe llegar aqui")
+        funcion = switcher.get(cara, "El programa no debe llegar aqui")
         funcion()
         
     
