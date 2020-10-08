@@ -9,6 +9,7 @@ Created on Wed Oct  7 22:44:56 2020
 # =============================================================================
 # SETW(): agrega espacios vacios recibe como parametro un entero 
 # RAND(): devuelve un numero aleatorio "1+rand()%6" en el rango de 1 y 6
+# SRAND(x): fija al X como semilla para numeros aleatorios
 # =============================================================================
 #    #include <iostream>
 #    #include <iomanip>
