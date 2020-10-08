@@ -32,7 +32,13 @@ Created on Wed Oct  7 20:17:41 2020
 # =============================================================================
 from random import randint
 
-for contador in range(1, 21):
-    print("".ljust(10,) , randint(1,6), end = "")
-    if contador % 5 == 0:
-        print("")
+def start():
+    for contador in range(1, 21):
+        print("".ljust(10,) , randint(1,6), end = "")
+        if contador % 5 == 0:
+            print("")
+        
+
+    
+if __name__ == '__main__':
+    start()
