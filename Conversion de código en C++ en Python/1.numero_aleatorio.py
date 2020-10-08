@@ -30,6 +30,10 @@ Created on Wed Oct  7 20:17:41 2020
 # =============================================================================
 #                           CÓDIGO PYTHON
 # =============================================================================
+# RANDINT(A,B): devuelve numero aleatorio entre a y b
+# str.LJUST(X,) : agrega X espacios vacios a la cadena que tiene a la izquierda
+# =============================================================================
+
 from random import randint
 
 def start():
