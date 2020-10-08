@@ -63,6 +63,9 @@ Created on Wed Oct  7 21:18:47 2020
 # =============================================================================
 #                           CÓDIGO PYTHON
 # =============================================================================
+# RANDINT(A,B): devuelve numero aleatorio entre a y b
+# str.LJUST(X,) : agrega X espacios vacios a la cadena que tiene a la izquierda
+# =============================================================================
 from random import randint
 frecuencia1 = frecuencia2 = frecuencia3 = frecuencia4 = frecuencia5 = frecuencia6 = 0
 
