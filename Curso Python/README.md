@@ -1,4 +1,5 @@
-# Curso Python
+# Curso Python <img height="40" src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/py.svg"> &nbsp; &nbsp;
+
 Estos son los temas principales que se tratan en este curso de Python. Cada tema se explica de forma práctica mediante ejemplos, para facilitar el aprendizaje:
 
 1. Variables, números y conversiones de datos
