@@ -38,6 +38,10 @@ Created on Wed Oct  7 22:44:56 2020
 # =============================================================================
 #                           CÓDIGO PYTHON
 # =============================================================================
+# RANDINT(A,B): devuelve numero aleatorio entre a y b
+# str.LJUST(X,) : agrega X espacios vacios a la cadena que tiene a la izquierda
+# SEED(X): fija el X como semilla para generar numeros aleatorios
+# =============================================================================
 
 import random
 # from random import randint
