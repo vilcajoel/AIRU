@@ -221,29 +221,6 @@ def moda(frecuencia, respuesta):
           "la cual tiene una ocurrencia de {} veces.".format(mas_grande))
     
 
-#       for ( int rating = 1; rating <= 9; rating++ ) 
-#       {
-#          cout << setw( 8 ) << rating << setw( 11 )
-#               << frec[ rating ] << "          ";
-#        // da seguimiento al valor de la moda y al valor de la frecuencia más grande
-        
-        
-#          if ( frec[ rating ] > masGrande ) 
-#    	  {
-#    	        masGrande = frec[ rating ];
-#    	        valorModa = rating;
-#    	  } // fin de if
-#        // muestra las barras del histograma que representa los valores de frecuencia
-#          for ( int k = 1; k <= frec[ rating ]; k++ )
-#             cout << '*';
-#             cout << '\n';  // comienza una nueva línea de salida
-#       } // fin del for externo
-#       // despliega el valor de la moda
-#       cout << "La moda es el valor mas frecuente.\n"
-#            << "Para esta ejecucion la moda es " << valorModa
-#            << " la cual tiene una ocurrencia de " << masGrande << " veces." << endl;
-#    } // fin de la función moda
-
 def start():
     frecuencia = []
     respuesta = [
